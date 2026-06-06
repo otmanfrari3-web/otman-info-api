@@ -1,0 +1,33 @@
+╔═══════════════════════════════════════╗
+║     OTMAN FREE FIRE API v2.0         ║
+║     Developer: OTMAN                  ║
+║     API UID: 4683806909               ║
+╚═══════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📡 API ENDPOINT:
+   /player-info?uid={UID}
+
+🌍 SUPPORTED REGIONS:
+   IND, BR, SG, RU, ID, TW, US, VN, TH, 
+   ME, PK, CIS, BD, NA, SAC, EU
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📝 EXAMPLE REQUEST:
+   https://otman-api.vercel.app/player-info?uid=123456789
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👑 DEVELOPER INFO:
+   Name: OTMAN
+   Telegram: @otman_v2
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚠️ DISCLAIMER:
+   This API is for educational purposes only.
+   All rights reserved to OTMAN © 2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
